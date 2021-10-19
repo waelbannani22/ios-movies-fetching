@@ -53,7 +53,7 @@ class FavouriteViewController: UIViewController, UITableViewDataSource
             
         } catch  {
             
-           print("eeror")
+           print("error with fetching ")
         }
         
         
